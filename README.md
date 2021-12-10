@@ -1,8 +1,13 @@
 ### Ooooi! Eu sou o Victor Pizetta 😁👋
 
+- 💬 25 Anos; Casado.
+- ⚖  Formado em Direito e migrando de área
 - 💻 Atualmente estudando Swift
+- 💼 Buscando uma oportunidade para ingressar na área de desenvolvimento iOS
 
-<div align="center">
+##
+
+<div>
   <a href="https://github.com/VictorPz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorPz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
