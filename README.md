@@ -2,8 +2,7 @@
 
 - 💬 25 Anos; Casado.
 - ⚖  Formado em Direito e migrando de área
-- 💻 Atualmente estudando Swift
-- 💼 Buscando uma oportunidade para ingressar na área de desenvolvimento iOS
+- 💻 Atualmente estudando Html, CSS, JS e React
 
 ##
 
