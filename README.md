@@ -1,7 +1,7 @@
 ### Ooooi! Eu sou o Victor Pizetta 😁👋
 
-- 💬 25 Anos; Casado.
-- ⚖  Formado em Direito e migrando de área, cursando Análise e desenvolvimento de sistemas
+- 💬 27 Anos; Casado.
+- ⚖  Formado em Direito, cursando Análise e desenvolvimento de sistemas
 - 💻 Atualmente estudando Html, CSS, JS e React
 
 ##
